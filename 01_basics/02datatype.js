@@ -22,7 +22,7 @@ console.log("2"<=2);
 console.log("2"==2);
 console.log(undefined==0);
 
-// // premetive  datatype
+// //Non - primitive  datatype
 
 // array
  const constant= ["hello","anup","chaurasiya"];
