@@ -1,3 +1,3 @@
 # js-series
 
-IN this series we will learn complite JAVA SCRIPT basics to advance 
+In this series we will learn complete JAVA SCRIPT basics to advanced.
