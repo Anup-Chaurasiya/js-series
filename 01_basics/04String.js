@@ -2,15 +2,15 @@
 
 // +++++ String +++++
 
-// const name="Anup chuarasiya "
+const name="Anup chuarasiya "
 
-// const repo= 50;
+const repo= 50;
 
-// console.log(name+repo+"variable");
+console.log(name+repo+"variable");
 
 // //  ${} backtick
 
-// console.log(`my name is ${name}and my reso is ${repo}`)
+console.log(`my name is ${name}and my reso is ${repo}`)
 
 let gameName= new String("  hello world  ")
 let userName="Anup chaurasiya"

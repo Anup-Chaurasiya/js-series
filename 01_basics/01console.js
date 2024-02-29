@@ -1,9 +1,9 @@
 let constant = undefined;
 
-// console.log(typeof(constant));
-// let number = Number(constant);
-// console.log(typeof constant);
-// console.log(number); 
+console.log(typeof(constant));
+let number = Number(constant);
+console.log(typeof constant);
+console.log(number); 
 
 let constant1 = null;
 
