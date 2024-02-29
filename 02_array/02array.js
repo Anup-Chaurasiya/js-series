@@ -2,11 +2,11 @@ const marvel_heros = ["Thor","Ironman","Spiderman"];
 
 const dc_heros=["Superman","Flash","Batman"];
 
-// marvel_heros.push(dc_heros)
+marvel_heros.push(dc_heros)
 
-// const hero=marvel_heros.concat(dc_heros);
-// console.log(marvel_heros.concat(dc_heros));
-// console.log(hero);
+const hero=marvel_heros.concat(dc_heros);
+console.log(marvel_heros.concat(dc_heros));
+console.log(hero);
 
 
 // Note ----->
@@ -23,11 +23,11 @@ console.log(newarray)
 
 // flat method
 
-// const myarrray= [1,2,3,[4,5,6],[45,67,[34,56]]];
+const myarrray= [1,2,3,[4,5,6],[45,67,[34,56]]];
 
-// const realarray=myarrray.flat(Infinity);
+const realarray=myarrray.flat(Infinity);
 
-// console.log(realarray)
+console.log(realarray)
 
 // String to array
 
