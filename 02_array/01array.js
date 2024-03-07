@@ -18,7 +18,7 @@ console.log(string);
 let arra= new Array(5,6,7,8,9);
 console.log(arra.at(4));
 console.log(arra.concat(10,11));
-console.table(constructor())
+console.table(constructor()) 
 
 
 

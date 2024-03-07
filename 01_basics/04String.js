@@ -2,7 +2,7 @@
 
 // +++++ String +++++
 
-const name="Anup chuarasiya "
+const name="Anup chuarasiya"
 
 const repo= 50;
 
@@ -17,7 +17,7 @@ let userName="Anup chaurasiya"
 
 console.log(gameName.length);
 console.log(gameName.charAt(4));
-console.log(gameName.charCodeAt(0));
+console.log(gameName.charCodeAt(0))
 console.log(gameName.at(1));
 console.log(gameName[0]);
 console.log(gameName.slice(0,4));

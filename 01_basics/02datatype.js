@@ -14,7 +14,7 @@ console.log(2%3);
 let str1= "Anup" ;
 let str2= " Chaurasiya";
 
-// console.log(str1+str2);
+console.log(str1+str2);
 
 console.log("2"==2);
 console.log("2"<2);

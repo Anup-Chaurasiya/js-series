@@ -20,7 +20,7 @@ const regularUser={
     }
 }
 
-// console.log(regularUser.fullName.UserName.firstName)
+console.log(regularUser.fullName.UserName.firstName)
 
 
 const obj1={1:"a",2:"b"}

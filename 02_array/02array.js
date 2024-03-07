@@ -13,7 +13,7 @@ console.log(hero);
 // Spread operator is use to join two or more array
 // concat has limitation it can join only two arrays
 
-// spread 
+// syntex of spread  ---> ... 
 
 const newarray= [...marvel_heros,...dc_heros];
 

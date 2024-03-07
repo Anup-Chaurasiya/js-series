@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body class="bg" style="background-color: #212121; color:#fff">
+    <div>
+        <ul class="list">
+            <li>Ghaziabad</li>
+        </ul>
+    </div>
+    <script>
+
+    <!-- addition of values  -->
+    function addLanguage(langName){
+        const head=document.createElement('li')
+        head.innerHTML=`${langName}`
+        const appe=document.querySelector('.list')
+        appe.appendChild(head)
+    }
+
+    addLanguage('delhi')
+    addLanguage('Gorakhpur')
+
+    function addElement(elementName){
+        const list=document.createElement('li');
+        const text=document.createTextNode(elementName)
+        list.appendChild(text)
+        document.querySelector('.list').appendChild(list)
+
+    }
+
+    addElement('banaras')
+    addElement('Deoria')
+
+   // edition 
+
+    const edit=document.querySelector('li:nth-child(2)')
+    console.log(edit);
+    //edit.innerHTML="Mango"
+    const change=document.createElement('li')
+    change.appendChild(document.createTextNode('lukhnow'))
+    edit.replaceWith(change)
+    
+    </script>
+</body>
+</html>

@@ -6,7 +6,7 @@ let date1=new Date(2024,11,3);
 
 console.log(date);
 console.log(date1.toString());
-console.log(date1.String());
+// console.log(date1.String());
 
 let time= new Date();
 

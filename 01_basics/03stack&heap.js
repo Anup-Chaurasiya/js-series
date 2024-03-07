@@ -1,7 +1,7 @@
 // stack and heap 
 
 
-// stack uses in int primitive datatype
+// stack uses in primitive datatype
 
 // and heap uses in non-primitive datatype
 

@@ -21,13 +21,13 @@ let number1= 126.49907;
 
 console.log(number1.toFixed(2))
 console.log(number1.toPrecision(3))
-console.log(number1.valueOf(3))
+console.log(number1.valueOf())
 
 
 //  ++++++ Math +++++++ 
 
 console.log(Math)
-console.log(Math.abs(-4));
+console.log(Math.abs(5));
 console.log(Math.round(4.678));
 console.log(Math.max(1,4,5,6,7));
 console.log(Math.ceil(4.5));
